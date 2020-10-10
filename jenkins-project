@@ -1,0 +1,25 @@
+git config --global user.email “mepunnya@gmail.com”
+git config --global user.name "punnya adhikari"
+git clone https://github.com/punnya1996/Demo3.git
+ls
+cd demo3/  Change directory
+ls
+touch test1
+ls----- language server
+pwd  
+git status
+git add *
+git status
+git commit -m "my first commit "
+       git push
+If you want to move different folder used cd ../command 
+git remote add origin ( clone) + url.
+git remote -v ( check the folder in Github)
+git push -u origin (branch)    how to push feature branch
+git branch -d branch name to delete
+git commit -am “” (Add and commit file at the same time only for modified files)
+git merge master
+vi files name
+cat configuration assistance tool.
+Git log   check history
+Git diff branchA  branch
