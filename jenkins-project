@@ -1,4 +1,4 @@
-git config --global user.email “mepunnya@gmail.com”
+git config --global user.email 'mepunnya@gmail.com'
 git config --global user.name "punnya adhikari"
 git clone https://github.com/punnya1996/Demo3.git
 ls
